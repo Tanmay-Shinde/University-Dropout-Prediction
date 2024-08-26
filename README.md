@@ -4,11 +4,11 @@ This project aims to predict student dropout rates from post-secondary instituti
 
 ## Table of Contents:
 
-[Introduction]()
+[Introduction](https://github.com/Tanmay-Shinde/University-Dropout-Prediction/tree/main?tab=readme-ov-file#introduction)
 
-[Dataset]()
+[Dataset](https://github.com/Tanmay-Shinde/University-Dropout-Prediction/tree/main?tab=readme-ov-file#dataset)
 
-[Project Workflow]()
+[Project Workflow](https://github.com/Tanmay-Shinde/University-Dropout-Prediction/tree/main?tab=readme-ov-file#project-workflow)
 
 1. Data Preprocessing
 2. Exploratory Data Analysis (EDA)
@@ -17,9 +17,9 @@ This project aims to predict student dropout rates from post-secondary instituti
 5. Model Evaluation
 6. Predictive Analysis
 
-[Results]()
+[Results](https://github.com/Tanmay-Shinde/University-Dropout-Prediction/tree/main?tab=readme-ov-file#results)
 
-[Conclusion]()
+[Conclusion](https://github.com/Tanmay-Shinde/University-Dropout-Prediction/tree/main?tab=readme-ov-file#conclusion)
 
 
 ## Introduction
