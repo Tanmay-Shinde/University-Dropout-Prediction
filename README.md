@@ -36,9 +36,7 @@ Student Status: Target variable indicating whether the student dropped out, is s
 ## Project Workflow
 1. Data Preprocessing - Handling missing values, removing duplicates, and ensuring data consistency. Standardizing numerical features and encoding categorical variables.
 
-2. Exploratory Data Analysis (EDA)
-
-Correlation Analysis - Used Pearson correlation to explore linear relationships between 'Student Status' and other features. Applied Spearman's rank correlation to identify non-linear relationships. Visualization: Created bar charts, histograms, and box plots to understand the distribution and impact of key features on student status.
+2. Exploratory Data Analysis (EDA) - Correlation Analysis: Used Pearson correlation to explore linear relationships between 'Student Status' and other features. Applied Spearman's rank correlation to identify non-linear relationships. Visualization: Created bar charts, histograms, and box plots to understand the distribution and impact of key features on student status.
 
 3. Feature Engineering - Interaction Features: Engineered interaction terms between first and second semester grades to capture combined effects. Aggregated Features: Created summary features, such as total approved curricular units, to reflect cumulative academic achievements.
 
